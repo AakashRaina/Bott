@@ -9,3 +9,5 @@ A very simple Slack Bot
 # Variables 
 * export SLACK_BOT_TOKEN = 'Your slack token here'
 * export BOT_ID = 'Your Bot Id'
+
+![Slack Screenshot](https://github.com/AakashRaina/Bott/blob/master/slackpic.png)
